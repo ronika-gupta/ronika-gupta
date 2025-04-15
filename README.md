@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Ronika Gupta! 👋
 
-<!--
-**ronika-gupta/ronika-gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Frontend Developer** | React.js | JavaScript | HTML | CSS | Material-UI
 
-Here are some ideas to get you started:
+I'm a passionate frontend developer based in **Gurugram**, with experience in building responsive and user-friendly web and mobile applications using **React** and **React Native**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack:
+- **Languages:** HTML, CSS, JavaScript
+- **Frameworks & Libraries:** React.js, React Native, Material-UI, Bootstrap
+- **Tools:** Git, GitHub, VS Code, Figma (basic)
+
+### 📈 Projects:
+- **Timesheet App** – Manage time entries and reports
+- **Event Management System** – Organize and manage events easily
+- **Restaurant Web App** – Digital menu and order system
+
+### 🌱 Currently Working On:
+- Enhancing UI of Restaurant App
+- Learning API integration and state management
+
+### 📫 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/ronika-gupta-1aa68b1aa)
+- Email: ronikagupta@example.com
+
+---
+“Consistency is more important than perfection.”
+
